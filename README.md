@@ -1,1 +1,1 @@
-# My .dotfile
+# Collection of my .dotfiles
